@@ -1,6 +1,6 @@
-Day 2 – Prompts, Memory and Python for AI Agents
+## Day 2 – Prompts, Memory and Python for AI Agents
 
-Topics Learned
+## Topics Learned
 
 1. Messages and Roles
 - System
@@ -31,13 +31,13 @@ Understanding how conversation history helps an AI assistant remember previous m
 - Decorators
 - Try and Except
 
-Case Study
+## Case Study
 **Sweet Crumbs Home Bakery Chatbot**
 
 Learned how prompts, rules, memory, and JSON can improve a chatbot.
 
-What I Learned
+## What I Learned
 Today I learned how to structure prompts, define roles and rules, work with JSON, and maintain conversation history using Python.
 
-Next Step
+## Next Step
 Practice these concepts by building a simple chatbot for a real-life business problem.
